@@ -1,0 +1,9 @@
+CREATE DATABASE php_crud;
+
+CREATE TABLE users (
+    id int(11) PRIMARY AUTO_INCREMENT,
+    name VARCHAR(100),
+    email VARCHAR(100),
+    fav_sport VARCHAR(100),
+    fav_number int()
+);
