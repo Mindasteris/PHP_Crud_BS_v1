@@ -1,2 +1,1 @@
-# PHP_Crud_BS_v1
-PHP crud with Bootstrap
+# PHP CRUD App with Bootstrap
